@@ -30,7 +30,7 @@ The application is developed using the following technologies:
 
 Credits
 
-This application was developed by [developer name] for educational and programming practice purposes. The API used in the application is owned by Lyrics.ovh and is used in accordance with its terms and conditions.
+This application was developed by José Alvarado for educational and programming practice purposes. The API used in the application is owned by Lyrics.ovh and is used in accordance with its terms and conditions.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
